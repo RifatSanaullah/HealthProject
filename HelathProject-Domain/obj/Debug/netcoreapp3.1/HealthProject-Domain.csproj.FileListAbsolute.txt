@@ -1,0 +1,12 @@
+G:\Brainstation-23\HelathProject-Domain\bin\Debug\netcoreapp3.1\HealthProject-Domain.deps.json
+G:\Brainstation-23\HelathProject-Domain\bin\Debug\netcoreapp3.1\HealthProject-Domain.dll
+G:\Brainstation-23\HelathProject-Domain\bin\Debug\netcoreapp3.1\HealthProject-Domain.pdb
+G:\Brainstation-23\HelathProject-Domain\obj\Debug\netcoreapp3.1\HealthProject-Domain.csprojAssemblyReference.cache
+G:\Brainstation-23\HelathProject-Domain\obj\Debug\netcoreapp3.1\HealthProject-Domain.AssemblyInfoInputs.cache
+G:\Brainstation-23\HelathProject-Domain\obj\Debug\netcoreapp3.1\HealthProject-Domain.AssemblyInfo.cs
+G:\Brainstation-23\HelathProject-Domain\obj\Debug\netcoreapp3.1\HealthProject-Domain.csproj.CoreCompileInputs.cache
+G:\Brainstation-23\HelathProject-Domain\obj\Debug\netcoreapp3.1\HealthProject-Domain.dll
+G:\Brainstation-23\HelathProject-Domain\obj\Debug\netcoreapp3.1\HealthProject-Domain.pdb
+G:\Brainstation-23\HelathProject-Domain\bin\Debug\netcoreapp3.1\HealthProject-Domain.runtimeconfig.json
+G:\Brainstation-23\HelathProject-Domain\bin\Debug\netcoreapp3.1\HealthProject-Domain.runtimeconfig.dev.json
+G:\Brainstation-23\HelathProject-Domain\obj\Debug\netcoreapp3.1\HealthProject-Domain.genruntimeconfig.cache

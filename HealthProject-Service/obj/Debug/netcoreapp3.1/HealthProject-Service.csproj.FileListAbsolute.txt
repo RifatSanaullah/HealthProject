@@ -1,0 +1,9 @@
+G:\Brainstation-23\HealthProject-Service\bin\Debug\netcoreapp3.1\HealthProject-Service.deps.json
+G:\Brainstation-23\HealthProject-Service\bin\Debug\netcoreapp3.1\HealthProject-Service.dll
+G:\Brainstation-23\HealthProject-Service\bin\Debug\netcoreapp3.1\HealthProject-Service.pdb
+G:\Brainstation-23\HealthProject-Service\obj\Debug\netcoreapp3.1\HealthProject-Service.csprojAssemblyReference.cache
+G:\Brainstation-23\HealthProject-Service\obj\Debug\netcoreapp3.1\HealthProject-Service.AssemblyInfoInputs.cache
+G:\Brainstation-23\HealthProject-Service\obj\Debug\netcoreapp3.1\HealthProject-Service.AssemblyInfo.cs
+G:\Brainstation-23\HealthProject-Service\obj\Debug\netcoreapp3.1\HealthProject-Service.csproj.CoreCompileInputs.cache
+G:\Brainstation-23\HealthProject-Service\obj\Debug\netcoreapp3.1\HealthProject-Service.dll
+G:\Brainstation-23\HealthProject-Service\obj\Debug\netcoreapp3.1\HealthProject-Service.pdb
