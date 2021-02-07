@@ -1,0 +1,40 @@
+﻿@model HelathProject_Domain.Status
+@{
+    Layout = null;
+}
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+<body style="background-image: url(https://thumbs.dreamstime.com/b/blackboard-text-health-wealth-stethoscope-blue-wooden-background-medecine-concept-blackboard-text-health-109546118.jpg)">
+    <div class="row justify-content-md-center" style="margin-top:60px;">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header">
+                    Status
+                </div>
+                <div class="card-body">
+                    @using (Html.BeginForm("Status", "Home", FormMethod.Post))
+                    {
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Rating)
+                            @Html.TextBoxFor(m => m.Rating, "", new { @class = "form-control", @placeholder = "Rating" })
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Statuses)
+                            @Html.TextBoxFor(m => m.Statuses, "", new { @class = "form-control", @placeholder = "Status" })
+                        </div>
+
+                        <div class="form-group ">
+                            <input style="margin-top:10px" ; type="submit" name="submit" class="btn btn-primary" value="submit" />
+                        </div>
+                        <div style="margin-top:10px"> <a href="@Url.Action("Login","Home")" class="btn btn-primary">Logout</a></div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+    @*    <script>
+            document.alert("Your submission have been accepted");
+        </script>*@
+</body>
+
+
